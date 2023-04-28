@@ -1,0 +1,8 @@
+@import "normalize.css";
+@import "colors.css";
+@import "typography.css";
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
